@@ -54,7 +54,6 @@ const ammar = {
 - PostgreSQL · Redis · queues · scheduler
 - 360+ automated tests, static analysis
 
-[![Repo](https://img.shields.io/badge/Motamaken--Backend-PHP%20%7C%20Laravel-777bb4?style=flat-square&logo=laravel&logoColor=white)](https://github.com/ammar-motaz2001/Motamaken-Backend)
 
 </td>
     <td width="50%" valign="top">
@@ -67,7 +66,6 @@ const ammar = {
 - TypeScript · Tailwind CSS
 - Dockerised, deployed on a VPS
 
-[![Repo](https://img.shields.io/badge/Motamaken--Front-Next.js%20%7C%20TypeScript-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/ammar-motaz2001/Motamaken-Front)
 
 </td>
   </tr>
